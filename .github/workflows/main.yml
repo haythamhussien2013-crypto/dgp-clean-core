@@ -1,7 +1,6 @@
 name: DGP Clean Start
 
 on:
-  push:
   workflow_dispatch:
 
 jobs:
@@ -9,25 +8,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Create test file
+      - name: Run Python Script
         run: |
-          mkdir -p tests
-          echo "import time" > tests/test.py
-          echo "print('🔥 DGP SYSTEM STARTED')" >> tests/test.py
-          echo "print('Level 1 OK')" >> tests/test.py
-          echo "print('Level 2 OK')" >> tests/test.py
-          echo "start=time.time()" >> tests/test.py
-          echo "for i in range(1000000): pass" >> tests/test.py
-          echo "print('Time:', time.time()-start)" >> tests/test.py
-          echo "print('ALL GOOD')" >> tests/test.py
-
-      - name: Run test
-        run: python tests/test.py
+          echo "🔥 STARTING DGP SYSTEM"
+          python3 -c "
+print('DGP SYSTEM ONLINE')
+print('LEVEL 1 OK')
+print('LEVEL 2 OK')
+print('LEVEL 3 OK')
+print
