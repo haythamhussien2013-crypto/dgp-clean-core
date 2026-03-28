@@ -1,0 +1,17 @@
+name: DGP Clean Start
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run simple test
+        run: |
+          echo "🔥 DGP SYSTEM STARTED"
+          echo "Level 1 OK"
+          echo "Level 2 OK"
+          echo "Level 3 OK"
+          echo "ALL GOOD"
