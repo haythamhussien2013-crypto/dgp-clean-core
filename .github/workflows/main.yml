@@ -4,16 +4,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  run:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Run Python Script
+      - name: Print messages
         run: |
-          echo "🔥 STARTING DGP SYSTEM"
-          python3 -c "
-print('DGP SYSTEM ONLINE')
-print('LEVEL 1 OK')
-print('LEVEL 2 OK')
-print('LEVEL 3 OK')
-print
+          echo "🔥 DGP SYSTEM STARTED"
+          echo "LEVEL 1 OK"
+          echo "LEVEL 2 OK"
+          echo "LEVEL 3 OK"
+          echo "ALL GOOD"
