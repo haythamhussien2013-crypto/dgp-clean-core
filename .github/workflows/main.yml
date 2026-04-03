@@ -1,32 +1,4 @@
-name: DGP Clean Start
-
-on:
-  workflow_dispatch:
-
-jobs:
-  test:
-    name: Run DGP System Test
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Start DGP System
-        run: |
-          echo "🔥 DGP SYSTEM STARTED"
-          echo "LEVEL 1 OK"
-          echo "LEVEL 2 OK"
-          echo "LEVEL 3 OK"
-          echo "ALL GOOD"
-
-      - name: Extra Test Step
-        run: |
-          echo "-----------------------------"
-          echo "🧪 EXTRA TEST RUNNING"
-          echo "Current Time:"
-          date
-          echo "Server Hostname:"
+echo "Server Hostname:"
           hostname
           echo "Test Completed Successfully"
           echo "-----------------------------"
