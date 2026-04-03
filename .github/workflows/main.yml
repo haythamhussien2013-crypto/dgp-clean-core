@@ -5,10 +5,14 @@ on:
 
 jobs:
   test:
+    name: Run DGP System Test
     runs-on: ubuntu-latest
 
     steps:
-      - name: Run test
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Start DGP System
         run: |
           echo "🔥 DGP SYSTEM STARTED"
           echo "LEVEL 1 OK"
