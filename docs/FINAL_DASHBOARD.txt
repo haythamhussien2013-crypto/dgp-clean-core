@@ -1,0 +1,558 @@
+/data/data/com.termux/files/home/global_project:
+total 24K
+-rw-------.  1 u0_a498 u0_a498  379 Apr 11 06:45 FINAL_DASHBOARD.txt
+-rw-------.  1 u0_a498 u0_a498  623 Apr 11 06:44 MASTER_REPORT.md
+-rw-------.  1 u0_a498 u0_a498 1.1K Apr 10 05:39 README.md
+-rwx------.  1 u0_a498 u0_a498  115 Apr 10 09:36 dgp_run.sh
+drwx------. 21 u0_a498 u0_a498 4.0K Apr 11 15:06 onedrive_backup
+-rw-------.  1 u0_a498 u0_a498  889 Apr 11 06:34 operational_tools.log
+
+/data/data/com.termux/files/home/global_project/onedrive_backup:
+total 9.0M
+-rw-------. 1 u0_a498 u0_a498  37K Apr 11 13:39 1_عالم القهوة.pdf
+-rw-------. 1 u0_a498 u0_a498 179K Apr 11 13:39 7 Stars company FCO _ Alkareem Tdading Group _ Rwanda.pdf
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:50 Adobe Acrobat
+drwx------. 3 u0_a498 u0_a498 3.4K Apr 11 14:53 All PDF Reader
+drwx------. 3 u0_a498 u0_a498 3.4K Apr 11 14:52 Apps
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:51 Attachments
+drwx------. 3 u0_a498 u0_a498 3.4K Apr 11 14:53 DDoversea
+drwx------. 5 u0_a498 u0_a498 3.4K Apr 11 15:05 DGP_Sovereign_Models_Full.pdf
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:50 Dgp
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:52 Documents
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:51 Documents(1)
+-rw-------. 1 u0_a498 u0_a498    0 Apr 11 09:09 Egyptian Honor Board DGP .sdocx
+drwx------. 3 u0_a498 u0_a498 3.4K Apr 11 14:53 Final DGP
+drwx------. 4 u0_a498 u0_a498 8.0K Apr 11 15:07 G
+-rw-------. 1 u0_a498 u0_a498 2.0M Apr  1 13:29 Gen-4 Turbo - cinematic continuous success and momentum, rising energy and progress, dynamic movemen (1) 1.mp4
+-rw-------. 1 u0_a498 u0_a498 2.0M Apr  1 13:29 Gen-4 Turbo - cinematic continuous success and momentum, rising energy and progress, dynamic movemen.mp4
+-rw-------. 1 u0_a498 u0_a498 935K Apr  1 13:28 Gen-4 Turbo - cinematic early success and recognition, subtle achievement moment, person standing wi.mp4
+-rw-------. 1 u0_a498 u0_a498 1.2M Apr  1 13:29 Gen-4 Turbo - cinematic transition scene, data streams flowing through dark space, glowing blue and.mp4
+-rw-------. 1 u0_a498 u0_a498 2.0K Apr 11 14:09 Google Passwords.csv
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:53 IMO
+drwx------. 5 u0_a498 u0_a498 3.4K Apr 11 15:05 LOST.DIR
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:53 Massage
+drwx------. 5 u0_a498 u0_a498 3.4K Apr 11 15:07 Memory
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:53 Microsoft Copilot Chat Files
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 15:05 Mkmm
+drwx------. 3 u0_a498 u0_a498 3.4K Apr 11 15:05 Movies
+-rw-------. 1 u0_a498 u0_a498 1.8M Mar 23 10:31 Notes_260219_160257_إزالة كلمة المرور.pdf
+-rw-------. 1 u0_a498 u0_a498    0 Apr 11 09:09 Notes_260318_081258.sdocx
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 15:06 Notion
+-rw-------. 1 u0_a498 u0_a498 2.0K Apr  1 13:29 Patent Claims – DGP System
+-rw-------. 1 u0_a498 u0_a498  36K Mar 23 10:31 Scan ٠٢ يناير ٢٦ ٢٠·٤٤·٣٦ 17673795290481.jpeg
+-rw-------. 1 u0_a498 u0_a498 162K Nov 19 12:29 Scan ١٩ نوفمبر ٢٥ · ١٢·٢٩·٣٤ 1763548174846.jpeg
+-rw-------. 1 u0_a498 u0_a498  297 Nov 19 12:29 Scan ١٩ نوفمبر ٢٥ · ١٢·٢٩·٣٤.collection
+-rw-------. 1 u0_a498 u0_a498  46K Apr  1 15:02 cloudbooklet-ai-١.pdf
+-rw-------. 1 u0_a498 u0_a498  30K Mar 23 10:31 pdf DGP.pdf
+-rw-------. 1 u0_a498 u0_a498  36K Apr 11 13:39 استراتيحى .pdf
+-rw-------. 1 u0_a498 u0_a498  35K Apr 11 13:39 اكواد.pdf
+-rw-------. 1 u0_a498 u0_a498    0 Apr 11 13:39 الاباصير×ى.pdf
+-rw-------. 1 u0_a498 u0_a498 612K Apr 11 13:39 الاكواد (١).pdf
+-rw-------. 1 u0_a498 u0_a498    0 Apr 11 12:41 عرض تقديمي.pptx
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Adobe Acrobat:
+total 560K
+-rw-------. 1 u0_a498 u0_a498  63K Apr  1 13:28 71ace9eea8f80b556eb4b8a3f6052451.pdf
+-rw-------. 1 u0_a498 u0_a498  86K Apr  1 13:28 a6b6f9a6b2a611b89535ebaed689e645.pdf
+-rw-------. 1 u0_a498 u0_a498 405K Apr  1 13:28 eg-customer-rights-guidelines.ashx.pdf
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/All PDF Reader:
+total 220K
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:53 Converted
+-rw-------. 1 u0_a498 u0_a498 214K Apr  1 13:28 https___g.dev_Haytham-AL-Abasi.PDF
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/All PDF Reader/Converted:
+total 208K
+-rw-------. 1 u0_a498 u0_a498 50K Apr  1 13:28 Converted_FINAL PTC DGP .EG_Converted.pdf
+-rw-------. 1 u0_a498 u0_a498 12K Apr  1 13:28 Converted_FINAL PTC DGP .EG_Converted_Converted.docx
+-rw-------. 1 u0_a498 u0_a498 12K Apr  1 13:28 The Egyptian project DGB System _Converted.docx
+-rw-------. 1 u0_a498 u0_a498 55K Apr  1 13:28 The Egyptian project DGB System _Converted_Converted.pdf
+-rw-------. 1 u0_a498 u0_a498 76K Apr  1 13:28 الملف السيادى الاول_Converted.pdf
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Apps:
+total 3.5K
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:53 Designer
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Apps/Designer:
+total 25M
+-rw-------. 1 u0_a498 u0_a498 13M Jan  3 03:21 XOXO.pdf
+-rw-------. 1 u0_a498 u0_a498 13M Jan  3 03:09 x 1.pdf
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Attachments:
+total 116M
+-rw-------. 1 u0_a498 u0_a498 57M Jan  9 02:06 H_A 612023 نسخ.mp4
+-rw-------. 1 u0_a498 u0_a498 59M Jan  9 02:07 XiaoYing_Video_1767775260525_1080HD نسخ.mp4
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/DDoversea:
+total 3.5K
+drwx------. 3 u0_a498 u0_a498 3.4K Apr 11 14:53 avatar
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/DDoversea/avatar:
+total 3.5K
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:53 thumb
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/DDoversea/avatar/thumb:
+total 420K
+-rw-------. 1 u0_a498 u0_a498 419K Mar 23 10:28 1772205473179.jpg
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/DGP_Sovereign_Models_Full.pdf:
+total 11K
+drwx------. 4 u0_a498 u0_a498 3.4K Apr 11 15:06 DGP XTRA FINAL
+drwx------. 3 u0_a498 u0_a498 3.4K Apr 11 15:05 Final DGP
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:53 مجلد جديد
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/DGP_Sovereign_Models_Full.pdf/DGP XTRA FINAL:
+total 7.0K
+drwx------. 3 u0_a498 u0_a498 3.4K Apr 11 15:06 Final DGP
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 15:05 برمجة
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/DGP_Sovereign_Models_Full.pdf/DGP XTRA FINAL/Final DGP:
+total 3.5K
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 15:07 DGP folder
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/DGP_Sovereign_Models_Full.pdf/DGP XTRA FINAL/Final DGP/DGP folder:
+total 280K
+-rw-------. 1 u0_a498 u0_a498  922 Mar 10 05:56 NEW FAIL.pyDGP55
+-rw-------. 1 u0_a498 u0_a498  524 Mar 10 05:56 NEWFoel.pyDGP20
+-rw-------. 1 u0_a498 u0_a498  312 Mar 10 05:56 newfile.pDGP8y
+-rw-------. 1 u0_a498 u0_a498  661 Mar 10 05:56 newfile.py24
+-rw-------. 1 u0_a498 u0_a498  989 Mar 10 05:56 newfile.pyDGP
+-rw-------. 1 u0_a498 u0_a498  468 Mar 10 05:56 newfile.pyDGP 1
+-rw-------. 1 u0_a498 u0_a498 1.4K Mar 10 05:56 newfile.pyDGP10
+-rw-------. 1 u0_a498 u0_a498  710 Mar 10 05:56 newfile.pyDGP11
+-rw-------. 1 u0_a498 u0_a498 1.2K Mar 10 05:56 newfile.pyDGP12
+-rw-------. 1 u0_a498 u0_a498  425 Mar 10 05:56 newfile.pyDGP13
+-rw-------. 1 u0_a498 u0_a498  904 Mar 10 05:56 newfile.pyDGP14
+-rw-------. 1 u0_a498 u0_a498  937 Mar 10 05:56 newfile.pyDGP15
+-rw-------. 1 u0_a498 u0_a498  266 Mar 10 05:56 newfile.pyDGP16
+-rw-------. 1 u0_a498 u0_a498  317 Mar 10 05:56 newfile.pyDGP18
+-rw-------. 1 u0_a498 u0_a498  266 Mar 10 05:56 newfile.pyDGP19
+-rw-------. 1 u0_a498 u0_a498 2.7K Mar 10 05:56 newfile.pyDGP21
+-rw-------. 1 u0_a498 u0_a498  586 Mar 10 05:56 newfile.pyDGP22
+-rw-------. 1 u0_a498 u0_a498  222 Mar 10 05:56 newfile.pyDGP23
+-rw-------. 1 u0_a498 u0_a498  661 Mar 10 05:56 newfile.pyDGP24
+-rw-------. 1 u0_a498 u0_a498  298 Mar 10 05:56 newfile.pyDGP25
+-rw-------. 1 u0_a498 u0_a498 2.1K Mar 10 05:56 newfile.pyDGP26
+-rw-------. 1 u0_a498 u0_a498  953 Mar 10 05:56 newfile.pyDGP28
+-rw-------. 1 u0_a498 u0_a498  751 Mar 10 05:56 newfile.pyDGP29
+-rw-------. 1 u0_a498 u0_a498  625 Mar 10 05:56 newfile.pyDGP3
+-rw-------. 1 u0_a498 u0_a498  201 Mar 10 05:56 newfile.pyDGP30
+-rw-------. 1 u0_a498 u0_a498 2.1K Mar 10 05:56 newfile.pyDGP33
+-rw-------. 1 u0_a498 u0_a498 1.3K Mar 10 05:56 newfile.pyDGP34
+-rw-------. 1 u0_a498 u0_a498 1.8K Mar 10 05:56 newfile.pyDGP35
+-rw-------. 1 u0_a498 u0_a498 1.8K Mar 10 05:56 newfile.pyDGP36
+-rw-------. 1 u0_a498 u0_a498  198 Mar 10 05:56 newfile.pyDGP37
+-rw-------. 1 u0_a498 u0_a498 2.0K Mar 10 05:56 newfile.pyDGP39
+-rw-------. 1 u0_a498 u0_a498 1.1K Mar 10 05:56 newfile.pyDGP4
+-rw-------. 1 u0_a498 u0_a498 2.9K Mar 10 05:56 newfile.pyDGP41
+-rw-------. 1 u0_a498 u0_a498 2.9K Mar 10 05:56 newfile.pyDGP42
+-rw-------. 1 u0_a498 u0_a498 2.9K Mar 10 05:56 newfile.pyDGP43
+-rw-------. 1 u0_a498 u0_a498 2.9K Mar 10 05:56 newfile.pyDGP44
+-rw-------. 1 u0_a498 u0_a498  917 Mar 10 05:56 newfile.pyDGP45
+-rw-------. 1 u0_a498 u0_a498  917 Mar 10 05:56 newfile.pyDGP46
+-rw-------. 1 u0_a498 u0_a498 2.7K Mar 10 05:56 newfile.pyDGP47
+-rw-------. 1 u0_a498 u0_a498  902 Mar 10 05:56 newfile.pyDGP49
+-rw-------. 1 u0_a498 u0_a498  939 Mar 10 05:56 newfile.pyDGP5
+-rw-------. 1 u0_a498 u0_a498  416 Mar 10 05:56 newfile.pyDGP50
+-rw-------. 1 u0_a498 u0_a498  949 Mar 10 05:56 newfile.pyDGP51
+-rw-------. 1 u0_a498 u0_a498  949 Mar 10 05:56 newfile.pyDGP52
+-rw-------. 1 u0_a498 u0_a498  949 Mar 10 05:56 newfile.pyDGP53
+-rw-------. 1 u0_a498 u0_a498 1.3K Mar 10 05:56 newfile.pyDGP54
+-rw-------. 1 u0_a498 u0_a498  922 Mar 10 05:56 newfile.pyDGP56
+-rw-------. 1 u0_a498 u0_a498  922 Mar 10 05:56 newfile.pyDGP57
+-rw-------. 1 u0_a498 u0_a498  922 Mar 10 05:56 newfile.pyDGP59
+-rw-------. 1 u0_a498 u0_a498  314 Mar 10 05:56 newfile.pyDGP6
+-rw-------. 1 u0_a498 u0_a498  924 Mar 10 05:56 newfile.pyDGP60
+-rw-------. 1 u0_a498 u0_a498 1.8K Mar 10 05:56 newfile.pyDGP61
+-rw-------. 1 u0_a498 u0_a498  565 Mar 10 05:57 newfile.pyDGP62
+-rw-------. 1 u0_a498 u0_a498  555 Mar 10 05:56 newfile.pyDGP63
+-rw-------. 1 u0_a498 u0_a498  648 Mar 10 05:57 newfile.pyDGP64
+-rw-------. 1 u0_a498 u0_a498  648 Mar 10 05:57 newfile.pyDGP65
+-rw-------. 1 u0_a498 u0_a498  648 Mar 10 05:57 newfile.pyDGP66
+-rw-------. 1 u0_a498 u0_a498  555 Mar 10 05:57 newfile.pyDGP68
+-rw-------. 1 u0_a498 u0_a498  555 Mar 10 05:57 newfile.pyDGP69
+-rw-------. 1 u0_a498 u0_a498  314 Mar 10 05:56 newfile.pyDGP7
+-rw-------. 1 u0_a498 u0_a498  555 Mar 10 05:57 newfile.pyDGP70
+-rw-------. 1 u0_a498 u0_a498  811 Mar 10 05:57 newfile.pyDGP71
+-rw-------. 1 u0_a498 u0_a498  830 Mar 10 05:57 newfile.pyDGP75
+-rw-------. 1 u0_a498 u0_a498  815 Mar 10 05:57 newfile.pyDGP77
+-rw-------. 1 u0_a498 u0_a498  581 Mar 10 05:57 newfile.pyDGP78
+-rw-------. 1 u0_a498 u0_a498  640 Mar 10 05:57 newfile.pyDGP80
+-rw-------. 1 u0_a498 u0_a498 1.2K Mar 10 05:57 newfile.pyDGP81
+-rw-------. 1 u0_a498 u0_a498 1.4K Mar 10 05:57 newfile.pyDGP83
+-rw-------. 1 u0_a498 u0_a498 1.4K Mar 10 05:56 newfile.pyDGP9
+-rw-------. 1 u0_a498 u0_a498 1.7K Mar 10 05:56 newfile.pyFinalDGP
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/DGP_Sovereign_Models_Full.pdf/DGP XTRA FINAL/برمجة:
+total 20K
+-rw-------. 1 u0_a498 u0_a498  388 Mar 10 05:57 Backup-codes-haytgamhussien2026 (1).txt
+-rw-------. 1 u0_a498 u0_a498  388 Mar 10 05:57 Backup-codes-haytgamhussien2026 (2).txt
+-rw-------. 1 u0_a498 u0_a498  388 Mar 10 05:57 Backup-codes-haytgamhussien2026.txt
+-rw-------. 1 u0_a498 u0_a498 2.4K Mar 10 05:57 cloudbooklet-ai-١.txt
+-rw-------. 1 u0_a498 u0_a498 2.4K Mar 10 05:57 cloudbooklet-ai.txt
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/DGP_Sovereign_Models_Full.pdf/Final DGP:
+total 3.5K
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 15:05 DGP folder
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/DGP_Sovereign_Models_Full.pdf/Final DGP/DGP folder:
+total 280K
+-rw-------. 1 u0_a498 u0_a498  922 Mar 10 05:52 NEW FAIL.pyDGP55
+-rw-------. 1 u0_a498 u0_a498  524 Mar 10 05:52 NEWFoel.pyDGP20
+-rw-------. 1 u0_a498 u0_a498  312 Mar 10 05:52 newfile.pDGP8y
+-rw-------. 1 u0_a498 u0_a498  661 Mar 10 05:52 newfile.py24
+-rw-------. 1 u0_a498 u0_a498  989 Mar 10 05:52 newfile.pyDGP
+-rw-------. 1 u0_a498 u0_a498  468 Mar 10 05:52 newfile.pyDGP 1
+-rw-------. 1 u0_a498 u0_a498 1.4K Mar 10 05:52 newfile.pyDGP10
+-rw-------. 1 u0_a498 u0_a498  710 Mar 10 05:52 newfile.pyDGP11
+-rw-------. 1 u0_a498 u0_a498 1.2K Mar 10 05:52 newfile.pyDGP12
+-rw-------. 1 u0_a498 u0_a498  425 Mar 10 05:52 newfile.pyDGP13
+-rw-------. 1 u0_a498 u0_a498  904 Mar 10 05:52 newfile.pyDGP14
+-rw-------. 1 u0_a498 u0_a498  937 Mar 10 05:52 newfile.pyDGP15
+-rw-------. 1 u0_a498 u0_a498  266 Mar 10 05:52 newfile.pyDGP16
+-rw-------. 1 u0_a498 u0_a498  317 Mar 10 05:52 newfile.pyDGP18
+-rw-------. 1 u0_a498 u0_a498  266 Mar 10 05:52 newfile.pyDGP19
+-rw-------. 1 u0_a498 u0_a498 2.7K Mar 10 05:52 newfile.pyDGP21
+-rw-------. 1 u0_a498 u0_a498  586 Mar 10 05:52 newfile.pyDGP22
+-rw-------. 1 u0_a498 u0_a498  222 Mar 10 05:52 newfile.pyDGP23
+-rw-------. 1 u0_a498 u0_a498  661 Mar 10 05:52 newfile.pyDGP24
+-rw-------. 1 u0_a498 u0_a498  298 Mar 10 05:52 newfile.pyDGP25
+-rw-------. 1 u0_a498 u0_a498 2.1K Mar 10 05:52 newfile.pyDGP26
+-rw-------. 1 u0_a498 u0_a498  953 Mar 10 05:52 newfile.pyDGP28
+-rw-------. 1 u0_a498 u0_a498  751 Mar 10 05:52 newfile.pyDGP29
+-rw-------. 1 u0_a498 u0_a498  625 Mar 10 05:52 newfile.pyDGP3
+-rw-------. 1 u0_a498 u0_a498  201 Mar 10 05:52 newfile.pyDGP30
+-rw-------. 1 u0_a498 u0_a498 2.1K Mar 10 05:52 newfile.pyDGP33
+-rw-------. 1 u0_a498 u0_a498 1.3K Mar 10 05:52 newfile.pyDGP34
+-rw-------. 1 u0_a498 u0_a498 1.8K Mar 10 05:52 newfile.pyDGP35
+-rw-------. 1 u0_a498 u0_a498 1.8K Mar 10 05:52 newfile.pyDGP36
+-rw-------. 1 u0_a498 u0_a498  198 Mar 10 05:52 newfile.pyDGP37
+-rw-------. 1 u0_a498 u0_a498 2.0K Mar 10 05:52 newfile.pyDGP39
+-rw-------. 1 u0_a498 u0_a498 1.1K Mar 10 05:52 newfile.pyDGP4
+-rw-------. 1 u0_a498 u0_a498 2.9K Mar 10 05:52 newfile.pyDGP41
+-rw-------. 1 u0_a498 u0_a498 2.9K Mar 10 05:52 newfile.pyDGP42
+-rw-------. 1 u0_a498 u0_a498 2.9K Mar 10 05:52 newfile.pyDGP43
+-rw-------. 1 u0_a498 u0_a498 2.9K Mar 10 05:52 newfile.pyDGP44
+-rw-------. 1 u0_a498 u0_a498  917 Mar 10 05:52 newfile.pyDGP45
+-rw-------. 1 u0_a498 u0_a498  917 Mar 10 05:52 newfile.pyDGP46
+-rw-------. 1 u0_a498 u0_a498 2.7K Mar 10 05:52 newfile.pyDGP47
+-rw-------. 1 u0_a498 u0_a498  902 Mar 10 05:52 newfile.pyDGP49
+-rw-------. 1 u0_a498 u0_a498  939 Mar 10 05:52 newfile.pyDGP5
+-rw-------. 1 u0_a498 u0_a498  416 Mar 10 05:52 newfile.pyDGP50
+-rw-------. 1 u0_a498 u0_a498  949 Mar 10 05:52 newfile.pyDGP51
+-rw-------. 1 u0_a498 u0_a498  949 Mar 10 05:52 newfile.pyDGP52
+-rw-------. 1 u0_a498 u0_a498  949 Mar 10 05:52 newfile.pyDGP53
+-rw-------. 1 u0_a498 u0_a498 1.3K Mar 10 05:52 newfile.pyDGP54
+-rw-------. 1 u0_a498 u0_a498  922 Mar 10 05:52 newfile.pyDGP56
+-rw-------. 1 u0_a498 u0_a498  922 Mar 10 05:52 newfile.pyDGP57
+-rw-------. 1 u0_a498 u0_a498  922 Mar 10 05:52 newfile.pyDGP59
+-rw-------. 1 u0_a498 u0_a498  314 Mar 10 05:52 newfile.pyDGP6
+-rw-------. 1 u0_a498 u0_a498  924 Mar 10 05:52 newfile.pyDGP60
+-rw-------. 1 u0_a498 u0_a498 1.8K Mar 10 05:52 newfile.pyDGP61
+-rw-------. 1 u0_a498 u0_a498  565 Mar 10 05:52 newfile.pyDGP62
+-rw-------. 1 u0_a498 u0_a498  555 Mar 10 05:52 newfile.pyDGP63
+-rw-------. 1 u0_a498 u0_a498  648 Mar 10 05:52 newfile.pyDGP64
+-rw-------. 1 u0_a498 u0_a498  648 Mar 10 05:52 newfile.pyDGP65
+-rw-------. 1 u0_a498 u0_a498  648 Mar 10 05:52 newfile.pyDGP66
+-rw-------. 1 u0_a498 u0_a498  555 Mar 10 05:52 newfile.pyDGP68
+-rw-------. 1 u0_a498 u0_a498  555 Mar 10 05:52 newfile.pyDGP69
+-rw-------. 1 u0_a498 u0_a498  314 Mar 10 05:52 newfile.pyDGP7
+-rw-------. 1 u0_a498 u0_a498  555 Mar 10 05:52 newfile.pyDGP70
+-rw-------. 1 u0_a498 u0_a498  811 Mar 10 05:52 newfile.pyDGP71
+-rw-------. 1 u0_a498 u0_a498  830 Mar 10 05:52 newfile.pyDGP75
+-rw-------. 1 u0_a498 u0_a498  815 Mar 10 05:52 newfile.pyDGP77
+-rw-------. 1 u0_a498 u0_a498  581 Mar 10 05:52 newfile.pyDGP78
+-rw-------. 1 u0_a498 u0_a498  640 Mar 10 05:52 newfile.pyDGP80
+-rw-------. 1 u0_a498 u0_a498 1.2K Mar 10 05:52 newfile.pyDGP81
+-rw-------. 1 u0_a498 u0_a498 1.4K Mar 10 05:52 newfile.pyDGP83
+-rw-------. 1 u0_a498 u0_a498 1.4K Mar 10 05:52 newfile.pyDGP9
+-rw-------. 1 u0_a498 u0_a498 1.7K Mar 10 05:52 newfile.pyFinalDGP
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/DGP_Sovereign_Models_Full.pdf/مجلد جديد:
+total 1.5M
+-rw-------. 1 u0_a498 u0_a498  12K Apr 11 13:48 Blank Template.docx
+-rw-------. 1 u0_a498 u0_a498  14K Apr 11 13:48 Claims(AR).docx
+-rw-------. 1 u0_a498 u0_a498  32K Apr 11 13:48 Claims(EN) 1.docx
+-rw-------. 1 u0_a498 u0_a498  32K Apr 11 13:48 Claims(EN).docx
+-rw-------. 1 u0_a498 u0_a498  18K Apr 11 13:48 Cleaning Campgain_Terms & Conditions_revised_200725_WS.docx
+-rw-------. 1 u0_a498 u0_a498  12K Apr 11 13:48 DGP (Conceptual Framework) Innovative Digital Solu_260203_090011.docx
+-rw-------. 1 u0_a498 u0_a498 589K Apr 11 13:48 DGP System International.docx
+-rw-------. 1 u0_a498 u0_a498  33K Apr 11 13:48 Detailed_description(EN) 1.docx
+-rw-------. 1 u0_a498 u0_a498  33K Apr 11 13:48 Detailed_description(EN).docx
+-rw-------. 1 u0_a498 u0_a498  97K Apr 11 13:48 Drawing_Form(AR)_ver.2022.03 1.docx
+-rw-------. 1 u0_a498 u0_a498  97K Apr 11 13:48 Drawing_Form(AR)_ver.2022.03.docx
+-rw-------. 1 u0_a498 u0_a498 119K Apr 11 13:48 Drawing_Form(EN)_ver.2022.03 1.docx
+-rw-------. 1 u0_a498 u0_a498 119K Apr 11 13:48 Drawing_Form(EN)_ver.2022.03.docx
+-rw-------. 1 u0_a498 u0_a498  37K Apr 11 13:48 OneRead_20260203_0512.docx
+-rw-------. 1 u0_a498 u0_a498  11K Apr 11 13:48 The Egyptian project DGB System .docx
+-rw-------. 1 u0_a498 u0_a498  14K Apr 11 13:48 xb.docx
+-rw-------. 1 u0_a498 u0_a498  16K Apr 11 13:48 المستند (1) افكارى.docx
+-rw-------. 1 u0_a498 u0_a498  77K Apr 11 13:48 وصف_مختصر_إنجليزى.doc
+-rw-------. 1 u0_a498 u0_a498  75K Apr 11 13:48 وصف_مختصر_عربى.doc
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Dgp:
+total 8.0K
+-rw-------. 1 u0_a498 u0_a498 1.5K Apr  9 01:06 (The Al-Abasiry  (1).txt
+-rw-------. 1 u0_a498 u0_a498 3.4K Apr  1 14:00 DGP_Systems_Final.pdf
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Documents:
+total 128M
+-rw-------. 1 u0_a498 u0_a498 13M Jan 31 03:45 H.pdf
+-rw-------. 1 u0_a498 u0_a498 57M Jan  7 12:06 H_A 612023.mp4
+-rw-------. 1 u0_a498 u0_a498 59M Jan 14 12:12 V.A
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Documents(1):
+total 320K
+-rw-------. 1 u0_a498 u0_a498  17K Jan 22 10:45 المستند (1).docx
+-rw-------. 1 u0_a498 u0_a498  14K Jan 16 01:37 المستند (2).docx
+-rw-------. 1 u0_a498 u0_a498  22K Jan 16 02:37 المستند (3).docx
+-rw-------. 1 u0_a498 u0_a498  22K Jan 26 09:12 المستند (4).docx
+-rw-------. 1 u0_a498 u0_a498  22K Jan  5 14:08 المستند.docx
+-rw-------. 1 u0_a498 u0_a498  35K Jan  5 02:15 عرض تقديمي (1).pptx
+-rw-------. 1 u0_a498 u0_a498 173K Jan  5 00:22 عرض تقديمي.pptx
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Final DGP:
+total 3.5K
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 14:53 DGP folder
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Final DGP/DGP folder:
+total 280K
+-rw-------. 1 u0_a498 u0_a498  922 Apr 11 08:41 NEW FAIL.pyDGP55
+-rw-------. 1 u0_a498 u0_a498  524 Apr 11 08:41 NEWFoel.pyDGP20
+-rw-------. 1 u0_a498 u0_a498  312 Apr 11 08:41 newfile.pDGP8y
+-rw-------. 1 u0_a498 u0_a498  661 Apr 11 08:41 newfile.py24
+-rw-------. 1 u0_a498 u0_a498  989 Apr 11 08:41 newfile.pyDGP
+-rw-------. 1 u0_a498 u0_a498  468 Apr 11 08:41 newfile.pyDGP 1
+-rw-------. 1 u0_a498 u0_a498 1.4K Apr 11 08:41 newfile.pyDGP10
+-rw-------. 1 u0_a498 u0_a498  710 Apr 11 08:41 newfile.pyDGP11
+-rw-------. 1 u0_a498 u0_a498 1.2K Apr 11 08:41 newfile.pyDGP12
+-rw-------. 1 u0_a498 u0_a498  425 Apr 11 08:41 newfile.pyDGP13
+-rw-------. 1 u0_a498 u0_a498  904 Apr 11 08:41 newfile.pyDGP14
+-rw-------. 1 u0_a498 u0_a498  937 Apr 11 08:41 newfile.pyDGP15
+-rw-------. 1 u0_a498 u0_a498  266 Apr 11 08:41 newfile.pyDGP16
+-rw-------. 1 u0_a498 u0_a498  317 Apr 11 08:41 newfile.pyDGP18
+-rw-------. 1 u0_a498 u0_a498  266 Apr 11 08:41 newfile.pyDGP19
+-rw-------. 1 u0_a498 u0_a498 2.7K Apr 11 08:41 newfile.pyDGP21
+-rw-------. 1 u0_a498 u0_a498  586 Apr 11 08:41 newfile.pyDGP22
+-rw-------. 1 u0_a498 u0_a498  222 Apr 11 08:41 newfile.pyDGP23
+-rw-------. 1 u0_a498 u0_a498  661 Apr 11 08:41 newfile.pyDGP24
+-rw-------. 1 u0_a498 u0_a498  298 Apr 11 08:41 newfile.pyDGP25
+-rw-------. 1 u0_a498 u0_a498 2.1K Apr 11 08:41 newfile.pyDGP26
+-rw-------. 1 u0_a498 u0_a498  953 Apr 11 08:41 newfile.pyDGP28
+-rw-------. 1 u0_a498 u0_a498  751 Apr 11 08:41 newfile.pyDGP29
+-rw-------. 1 u0_a498 u0_a498  625 Apr 11 08:41 newfile.pyDGP3
+-rw-------. 1 u0_a498 u0_a498  201 Apr 11 08:41 newfile.pyDGP30
+-rw-------. 1 u0_a498 u0_a498 2.1K Apr 11 08:41 newfile.pyDGP33
+-rw-------. 1 u0_a498 u0_a498 1.3K Apr 11 08:41 newfile.pyDGP34
+-rw-------. 1 u0_a498 u0_a498 1.8K Apr 11 08:41 newfile.pyDGP35
+-rw-------. 1 u0_a498 u0_a498 1.8K Apr 11 08:41 newfile.pyDGP36
+-rw-------. 1 u0_a498 u0_a498  198 Apr 11 08:41 newfile.pyDGP37
+-rw-------. 1 u0_a498 u0_a498 2.0K Apr 11 08:41 newfile.pyDGP39
+-rw-------. 1 u0_a498 u0_a498 1.1K Apr 11 08:41 newfile.pyDGP4
+-rw-------. 1 u0_a498 u0_a498 2.9K Apr 11 08:41 newfile.pyDGP41
+-rw-------. 1 u0_a498 u0_a498 2.9K Apr 11 08:41 newfile.pyDGP42
+-rw-------. 1 u0_a498 u0_a498 2.9K Apr 11 08:41 newfile.pyDGP43
+-rw-------. 1 u0_a498 u0_a498 2.9K Apr 11 08:41 newfile.pyDGP44
+-rw-------. 1 u0_a498 u0_a498  917 Apr 11 08:41 newfile.pyDGP45
+-rw-------. 1 u0_a498 u0_a498  917 Apr 11 08:41 newfile.pyDGP46
+-rw-------. 1 u0_a498 u0_a498 2.7K Apr 11 08:41 newfile.pyDGP47
+-rw-------. 1 u0_a498 u0_a498  902 Apr 11 08:41 newfile.pyDGP49
+-rw-------. 1 u0_a498 u0_a498  939 Apr 11 08:41 newfile.pyDGP5
+-rw-------. 1 u0_a498 u0_a498  416 Apr 11 08:41 newfile.pyDGP50
+-rw-------. 1 u0_a498 u0_a498  949 Apr 11 08:41 newfile.pyDGP51
+-rw-------. 1 u0_a498 u0_a498  949 Apr 11 08:41 newfile.pyDGP52
+-rw-------. 1 u0_a498 u0_a498  949 Apr 11 08:41 newfile.pyDGP53
+-rw-------. 1 u0_a498 u0_a498 1.3K Apr 11 08:41 newfile.pyDGP54
+-rw-------. 1 u0_a498 u0_a498  922 Apr 11 08:41 newfile.pyDGP56
+-rw-------. 1 u0_a498 u0_a498  922 Apr 11 08:41 newfile.pyDGP57
+-rw-------. 1 u0_a498 u0_a498  922 Apr 11 08:41 newfile.pyDGP59
+-rw-------. 1 u0_a498 u0_a498  314 Apr 11 08:41 newfile.pyDGP6
+-rw-------. 1 u0_a498 u0_a498  924 Apr 11 08:41 newfile.pyDGP60
+-rw-------. 1 u0_a498 u0_a498 1.8K Apr 11 08:41 newfile.pyDGP61
+-rw-------. 1 u0_a498 u0_a498  565 Apr 11 08:41 newfile.pyDGP62
+-rw-------. 1 u0_a498 u0_a498  555 Apr 11 08:41 newfile.pyDGP63
+-rw-------. 1 u0_a498 u0_a498  648 Apr 11 08:41 newfile.pyDGP64
+-rw-------. 1 u0_a498 u0_a498  648 Apr 11 08:41 newfile.pyDGP65
+-rw-------. 1 u0_a498 u0_a498  648 Apr 11 08:41 newfile.pyDGP66
+-rw-------. 1 u0_a498 u0_a498  555 Apr 11 08:41 newfile.pyDGP68
+-rw-------. 1 u0_a498 u0_a498  555 Apr 11 08:41 newfile.pyDGP69
+-rw-------. 1 u0_a498 u0_a498  314 Apr 11 08:41 newfile.pyDGP7
+-rw-------. 1 u0_a498 u0_a498  555 Apr 11 08:41 newfile.pyDGP70
+-rw-------. 1 u0_a498 u0_a498  811 Apr 11 08:41 newfile.pyDGP71
+-rw-------. 1 u0_a498 u0_a498  830 Apr 11 08:41 newfile.pyDGP75
+-rw-------. 1 u0_a498 u0_a498  815 Apr 11 08:41 newfile.pyDGP77
+-rw-------. 1 u0_a498 u0_a498  581 Apr 11 08:41 newfile.pyDGP78
+-rw-------. 1 u0_a498 u0_a498  640 Apr 11 08:41 newfile.pyDGP80
+-rw-------. 1 u0_a498 u0_a498 1.2K Apr 11 08:41 newfile.pyDGP81
+-rw-------. 1 u0_a498 u0_a498 1.4K Apr 11 08:41 newfile.pyDGP83
+-rw-------. 1 u0_a498 u0_a498 1.4K Apr 11 08:41 newfile.pyDGP9
+-rw-------. 1 u0_a498 u0_a498 1.7K Apr 11 08:41 newfile.pyFinalDGP
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/G:
+total 13M
+-rw-------. 1 u0_a498 u0_a498   646 Mar 23 10:31 Blank Template.pdf
+-rw-------. 1 u0_a498 u0_a498   17K Apr  1 13:28 ChatGPT  Rody.pdf
+-rw-------. 1 u0_a498 u0_a498  4.0K Apr  1 13:29 DGP_Elite_Patent_File.pdf
+-rw-------. 1 u0_a498 u0_a498  3.7K Apr  1 13:29 DGP_Global_Patent_File-1.pdf
+-rw-------. 1 u0_a498 u0_a498  3.7K Apr  1 13:29 DGP_Global_Patent_File.pdf
+-rw-------. 1 u0_a498 u0_a498  2.0K Apr  1 13:29 DGP_Investor.pdf
+-rw-------. 1 u0_a498 u0_a498  2.6K Apr  1 13:29 DGP_Pitch.pdf
+-rw-------. 1 u0_a498 u0_a498  3.8K Apr  1 13:29 DGP_Roddy_Full_Company_Report 1.pdf
+-rw-------. 1 u0_a498 u0_a498  3.6K Apr  1 13:29 DGP_Roddy_Global_Version.pdf
+-rw-------. 1 u0_a498 u0_a498  2.3K Apr  1 13:29 DGP_Roddy_Master_File.pdf
+-rw-------. 1 u0_a498 u0_a498   37K Apr  1 13:29 DGP_Roddy_Pitch_Deck.pptx
+-rw-------. 1 u0_a498 u0_a498  2.1K Apr  1 13:29 DGP_Technical.pdf
+-rw-------. 1 u0_a498 u0_a498   30K Apr  1 13:29 DOC-20260330-WA0006. 1.pdf
+-rw-------. 1 u0_a498 u0_a498   30K Apr  1 13:29 DOC-20260330-WA0006.(1).pdf
+-rw-------. 1 u0_a498 u0_a498  653K Apr  1 13:28 ElevenLabs_2026-03-30T16_27_49_Adam Stone - Smooth, Deep and Relaxed_pvc_sp111_s72_sb88_se49_b_m2 (1).mp3
+-rw-------. 1 u0_a498 u0_a498  653K Apr  1 13:29 ElevenLabs_2026-03-30T16_27_49_Adam Stone - Smooth, Deep and Relaxed_pvc_sp111_s72_sb88_se49_b_m2.mp3
+-rw-------. 1 u0_a498 u0_a498  700K Apr  1 13:29 ElevenLabs_2026-03-30T17_03_34_Xavier - Dominating, Metalic Announcer_pvc_sp107_s71_sb100_se0_b_m2 (1).mp3
+-rw-------. 1 u0_a498 u0_a498  700K Apr  1 13:28 ElevenLabs_2026-03-30T17_03_34_Xavier - Dominating, Metalic Announcer_pvc_sp107_s71_sb100_se0_b_m2.mp3
+-rw-------. 1 u0_a498 u0_a498  196K Jan 31 08:59 eae84f52-8a3f-4e0b-b709-60a9e234a26e (1).wav
+-rw-------. 1 u0_a498 u0_a498  1.7M Jan 31 08:59 f00aed62-e6ae-4d4b-9ad2-1bab0517c4e8.wav
+-rw-------. 1 u0_a498 u0_a498  359K Jan 31 08:58 f02cee9a-c33d-4a54-af51-e3021e18029a (1).wav
+-rw-------. 1 u0_a498 u0_a498  359K Jan 31 08:58 f02cee9a-c33d-4a54-af51-e3021e18029a.wav
+-rw-------. 1 u0_a498 u0_a498  1.8M Jan 31 08:58 f0b553c4-2dec-40a5-bfbd-7365f3a54dc4.wav
+-rw-------. 1 u0_a498 u0_a498   49K Jan 31 08:58 f2ade899-2b64-492e-9dfc-aec75f5e2b66 (1).wav
+-rw-------. 1 u0_a498 u0_a498   49K Jan 31 08:58 f2ade899-2b64-492e-9dfc-aec75f5e2b66.wav
+-rw-------. 1 u0_a498 u0_a498  909K Jan 31 08:58 f352bd3a-e3be-4ea2-8ff0-4727b606cac8.wav
+-rw-------. 1 u0_a498 u0_a498  356K Jan 31 08:58 f4677e1b-1203-47ab-8f39-6514015e8880 (1).wav
+-rw-------. 1 u0_a498 u0_a498  356K Jan 31 08:58 f4677e1b-1203-47ab-8f39-6514015e8880.wav
+-rw-------. 1 u0_a498 u0_a498  1.9M Jan 31 08:58 f642c6a6-386b-429f-b01d-e7f1c6b84f91.wav
+-rw-------. 1 u0_a498 u0_a498  122K Jan 31 08:58 f849f8f4-83b4-495a-b585-b75ac5c7dd27 (1).wav
+-rw-------. 1 u0_a498 u0_a498  122K Jan 31 08:58 f849f8f4-83b4-495a-b585-b75ac5c7dd27.wav
+-rw-------. 1 u0_a498 u0_a498   46K Jan 31 08:58 fa0c90e1-78de-40c9-b07d-7e9669347570 (1).wav
+-rw-------. 1 u0_a498 u0_a498   46K Jan 31 08:58 fa0c90e1-78de-40c9-b07d-7e9669347570.wav
+-rw-------. 1 u0_a498 u0_a498 1018K Jan 31 08:58 fb30c14e-d5fc-4a26-85b5-27abe49ab316.wav
+-rw-------. 1 u0_a498 u0_a498  556K Jan 31 08:58 ff016df2-5bf3-4edf-b6a5-e0558619ece9.wav
+-rw-------. 1 u0_a498 u0_a498  1.2K Mar 23 10:30 final.py.py
+-rw-------. 1 u0_a498 u0_a498   799 Mar 23 10:30 final.py.zip
+drwx------. 3 u0_a498 u0_a498  3.4K Apr 11 15:07 برمجة ٢
+drwx------. 2 u0_a498 u0_a498  3.4K Apr 11 15:07 مجلد جديد
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/G/برمجة ٢:
+total 3.5K
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 15:07 Quick Share
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/G/برمجة ٢/Quick Share:
+total 172K
+-rw-------. 1 u0_a498 u0_a498 172K Mar 23 11:27 Osama Ahmed Mohamed(SD).mp4
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/G/مجلد جديد:
+total 107M
+-rw-------. 1 u0_a498 u0_a498 107M Jan 14 12:13 V
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/IMO:
+total 1.9M
+-rw-------. 1 u0_a498 u0_a498 934K Apr  1 13:27 Gen-4_Turbo_-_powerful_cinematic_ending,_black_and_gold_luxury_style,_minimal_design,_dark_backgroun (1).mp4
+-rw-------. 1 u0_a498 u0_a498 934K Apr  1 13:26 Gen-4_Turbo_-_powerful_cinematic_ending,_black_and_gold_luxury_style,_minimal_design,_dark_backgroun.mp4
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/LOST.DIR:
+total 11K
+drwx------. 3 u0_a498 u0_a498 3.4K Apr 11 15:05 Movies
+drwx------. 4 u0_a498 u0_a498 3.4K Apr 11 15:06 Music
+drwx------. 3 u0_a498 u0_a498 3.4K Apr 11 15:05 Pictures
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/LOST.DIR/Movies:
+total 2.1M
+-rw-------. 1 u0_a498 u0_a498 763K Mar 23 12:11 محمود_خليل_الحصري__shorts(360P).mp4
+-rw-------. 1 u0_a498 u0_a498 514K Mar 23 12:10 وأقيموا_الصلاة_وآتوا_الزكاة_وما_تقدموا_لأنفسكم_من_خير_تجدوه_عند_الله_إن_الله.mp4
+-rw-------. 1 u0_a498 u0_a498 803K Mar 23 12:10 ولقد_نعلـم_انك_يضيق_صدرك_بما_يقولون_الشيخ_محمود_علي_البنا(360P)_(1).mp4
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/LOST.DIR/Music:
+total 3.5K
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 15:06 Radio
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/LOST.DIR/Music/Radio:
+total 48K
+-rw-------. 1 u0_a498 u0_a498 48K Mar 23 12:10 الراديو 001_sd ‏‪87.8‬‏.m4a
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/LOST.DIR/Pictures:
+total 0
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Massage:
+total 48K
+-rw-------. 1 u0_a498 u0_a498 46K Apr  1 15:08 cloudbooklet-ai-١.pdf
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Memory:
+total 11K
+drwx------. 3 u0_a498 u0_a498 3.4K Apr 11 15:07 الواردات
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 15:06 برمجة ٢
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 15:07 صور
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Memory/الواردات:
+total 7.5K
+-rw-------. 1 u0_a498 u0_a498  411 Dec 30 06:37 haythamalabasiry@gmail.com - Google Drive - Report.txt
+drwx------. 2 u0_a498 u0_a498 3.4K Apr 11 15:12 haythamhussien2013@gmail.com - Google Drive
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Memory/الواردات/haythamhussien2013@gmail.com - Google Drive:
+total 622M
+-rw-------. 1 u0_a498 u0_a498  29M Jan 31 04:32 19c11e05193952992891.pdf
+-rw-------. 1 u0_a498 u0_a498 471M Jan 31 07:55 19c11e051955faf5e042.pdf
+-rw-------. 1 u0_a498 u0_a498  22M Jan 31 04:32 19c11e0519771bcf5363.pdf
+-rw-------. 1 u0_a498 u0_a498  39M Jan 31 07:35 19c12836e097a78a6e44.pdf
+-rw-------. 1 u0_a498 u0_a498  14M Jan 31 07:35 19c12858e53b76b9d82a.pdf
+-rw-------. 1 u0_a498 u0_a498  39M Jan 31 07:47 19c12948e397a78a6e4153.pdf
+-rw-------. 1 u0_a498 u0_a498 5.2M Jan 31 07:45 19c12948e3d2ed5c10a154.pdf
+-rw-------. 1 u0_a498 u0_a498 5.2M Jan 31 09:37 19c12b6c5b22ed5c10a6.pdf
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Memory/برمجة ٢:
+total 6.9M
+-rw-------. 1 u0_a498 u0_a498 4.6K Mar 23 10:15 DGP_Systems_Global_Grant_Application.pdf
+-rw-------. 1 u0_a498 u0_a498 6.2K Mar 23 10:15 DGP_Systems_Global_Proposal_Clean(1)(1).pdf
+-rw-------. 1 u0_a498 u0_a498 6.2K Mar 23 10:15 DGP_Systems_Global_Proposal_Clean(1).pdf
+-rw-------. 1 u0_a498 u0_a498 6.2K Mar 23 10:15 DGP_Systems_Global_Proposal_Clean.pdf
+-rw-------. 1 u0_a498 u0_a498 4.5K Mar 23 10:15 DGP_Systems_Innovation_Funding_Proposal.pdf
+-rw-------. 1 u0_a498 u0_a498  21K Mar 23 10:15 DGP_Systems_Innovation_Funding_Proposal.pdf.pdf
+-rw-------. 1 u0_a498 u0_a498 3.5K Mar 23 10:15 DGP_Systems_Innovation_Funding_Proposal_v2.pdf
+-rw-------. 1 u0_a498 u0_a498 2.6K Mar 23 10:15 DGP_Systems_Project_Brief-1.pdf
+-rw-------. 1 u0_a498 u0_a498 2.6K Mar 23 10:15 DGP_Systems_Project_Brief-2.pdf
+-rw-------. 1 u0_a498 u0_a498 2.6K Mar 23 10:15 DGP_Systems_Project_Brief.pdf
+-rw-------. 1 u0_a498 u0_a498 453K Mar 23 10:15 Invoice_2025-12-16_243281711_IH.pdf
+-rw-------. 1 u0_a498 u0_a498 461K Mar 23 10:15 Invoice_2026-01-16_243281711_IH.pdf
+-rw-------. 1 u0_a498 u0_a498 427K Mar 23 10:15 Invoice_2026-02-16_243281711_IH.pdf
+-rw-------. 1 u0_a498 u0_a498 549K Mar 23 10:15 ankh_key_security(1).png
+-rw-------. 1 u0_a498 u0_a498  45K Mar 23 10:15 ankh_key_security.pdf
+-rw-------. 1 u0_a498 u0_a498 549K Mar 23 10:15 ankh_key_security.png
+-rw-------. 1 u0_a498 u0_a498 522K Mar 23 10:15 anubis_guardian.png
+-rw-------. 1 u0_a498 u0_a498 546K Mar 23 10:15 eye_of_horus_security(1).png
+-rw-------. 1 u0_a498 u0_a498 546K Mar 23 10:15 eye_of_horus_security.png
+-rw-------. 1 u0_a498 u0_a498 346K Mar 23 10:15 image_1_top_left-1.png
+-rw-------. 1 u0_a498 u0_a498 346K Mar 23 10:15 image_1_top_left.png
+-rw-------. 1 u0_a498 u0_a498 182K Mar 23 10:15 image_2_top_right-1.png
+-rw-------. 1 u0_a498 u0_a498 182K Mar 23 10:15 image_2_top_right.png
+-rw-------. 1 u0_a498 u0_a498 454K Mar 23 10:15 image_3_bottom_left-1.png
+-rw-------. 1 u0_a498 u0_a498 454K Mar 23 10:15 image_3_bottom_left.png
+-rw-------. 1 u0_a498 u0_a498 104K Mar 23 10:15 image_4_bottom_right-1.png
+-rw-------. 1 u0_a498 u0_a498 104K Mar 23 10:15 image_4_bottom_right-2.png
+-rw-------. 1 u0_a498 u0_a498 104K Mar 23 10:15 image_4_bottom_right.png
+-rw-------. 1 u0_a498 u0_a498 1.2K Mar 23 10:15 newfile.pyHaythamALabasiry
+-rw-------. 1 u0_a498 u0_a498 485K Mar 23 10:15 pharaoh_guardian.png
+-rw-------. 1 u0_a498 u0_a498  21K Mar 23 10:15 دمج ٢ مارس ٢٠٢٦.pdf
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Memory/صور:
+total 892K
+-rw-------. 1 u0_a498 u0_a498 891K Mar 18 08:05 1771781700651.png
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Microsoft Copilot Chat Files:
+total 588K
+-rw-------. 1 u0_a498 u0_a498  38K Jan 25 08:43 6bkzWDtiHw5RSkepxbRCo.docx
+-rw-------. 1 u0_a498 u0_a498  44K Feb  8 22:41 السيادة  نسخ.pdf
+-rw-------. 1 u0_a498 u0_a498  44K Jan 30 15:31 السيادة .pdf
+-rw-------. 1 u0_a498 u0_a498 158K Jan 30 15:31 السيادة عرلى .pdf
+-rw-------. 1 u0_a498 u0_a498 159K Jan 30 15:31 السيادة عرلى _mywatermark.pdf
+-rw-------. 1 u0_a498 u0_a498 139K Jan 30 15:31 موانح سيادية .pdf
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Mkmm:
+total 972M
+-rw-------. 1 u0_a498 u0_a498 486M Jan 19 08:13 haytham نسخ نسخ.mp4
+-rw-------. 1 u0_a498 u0_a498 486M Jan 19 08:27 haytham.mp4
+-rw-------. 1 u0_a498 u0_a498    0 Jan 19 08:22 مستند.docx
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Movies:
+total 0
+
+/data/data/com.termux/files/home/global_project/onedrive_backup/Notion:
+total 8.0K
+-rw-------. 1 u0_a498 u0_a498  913 Apr  1 13:27 ExportBlock-eabc0903-1f1d-4267-8c25-1cc140ff0b92.zip
+-rw-------. 1 u0_a498 u0_a498 2.0K Apr  1 13:27 Google Passwords.csv

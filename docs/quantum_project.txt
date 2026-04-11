@@ -1,0 +1,54 @@
+🏛️ DOC_quantum_benchmark_x10.p
+
+🎯 الهدف (Purpose)
+إعداد بيئة عمل لتثبيت Git و GnuPG على Termux.
+
+⚙️ المتطلبات (Requirements)
+- Termux مثبت على الجهاز
+- اتصال بالإنترنت
+- صلاحيات أساسية للتثبيت
+
+🖥️ خطوات التشغيل (Usage)
+1. تحديث النظام:
+   pkg update && pkg upgrade
+
+2. تثبيت Git:
+   pkg install git
+
+3. تثبيت GnuPG:
+   pkg install gnupg
+
+✅ النتائج المتوقعة (Expected Output)
+- نجاح التثبيت
+- التحقق من الإصدار:
+   git --version
+   gpg --version
+
+⚠️ المشاكل المحتملة (Troubleshooting)
+- خطأ في الاتصال → تأكد من الإنترنت
+- اسم الحزمة غير صحيح → راجع الأمر
+- عدم وجود صلاحيات → أعد تشغيل Termux
+
+📅 التاريخ والإصدارات (Version & Date)
+- تاريخ الإنشاء: 26 مارس 2026
+- الإصدار: v1.0
+
+🔗 المراجع (References)
+- Termux Documentation: https://wiki.termux.com
+- GitHub Docs: https://docs.github.com
+- GnuPG Official: https://gnupg.org
+# تحديث النظام
+pkg update && pkg upgrade
+
+# تثبيت Git
+pkg install git
+
+# تثبيت GnuPG (علشان تولّد مفاتيح GPG)
+pkg install gnupg
+
+pkg update && pkg upgrade
+
+pkg install git
+
+pkg install gnupg
+
