@@ -1,20 +1,12 @@
-echo "Server Hostname:"
-          hostname
-          echo "Test Completed Successfully"
-          echo "-----------------------------"
-
-      - name: Generate Clean Report
-        run: |
-          echo "DGP SYSTEM REPORT" > report.txt
-          echo "==================" >> report.txt
-          echo "System Status: OK" >> report.txt
-          echo "Levels: 1, 2, 3 Passed" >> report.txt
-          echo "Timestamp:" >> report.txt
-          date >> report.txt
-          echo "Report generated successfully."
-
-      - name: Upload Report Artifact
-        uses: actions/upload-artifact@v4
+name: Entropy Tests
+on: push
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          name: dgp-report
-          path: report.txt
+          python-version: '3.11'
+      - run: pip install numpy
+      - run: python entropy.py
